@@ -1,15 +1,15 @@
 {
   "version": 1,
   "type": "schleiferl",
-  "exportedAt": "2026-09-18T10:38:13.377Z",
+  "exportedAt": "2026-09-18T11:03:06.459Z",
   "title": "Schleiferlturnier",
   "summary": {
     "players": 12,
-    "rounds": 5,
+    "rounds": 11,
     "courts": 3,
     "results": 0,
-    "matches": 15,
-    "minutes": 15,
+    "matches": 33,
+    "minutes": 22,
     "breakMinutes": 5
   },
   "rounds": [
@@ -22,30 +22,30 @@
           "teams": [
             [
               {
-                "id": "A1",
-                "name": "Person A1",
+                "id": "A6",
+                "name": "f",
                 "group": "Gruppe A",
-                "color": "hsl(0 62% 42%)"
+                "color": "hsl(295 62% 42%)"
               },
               {
                 "id": "B5",
-                "name": "Person B5",
+                "name": "k",
                 "group": "Gruppe B",
                 "color": "hsl(158 62% 42%)"
               }
             ],
             [
               {
-                "id": "A4",
-                "name": "Person A4",
+                "id": "A3",
+                "name": "c",
                 "group": "Gruppe A",
-                "color": "hsl(105 62% 42%)"
+                "color": "hsl(190 62% 42%)"
               },
               {
-                "id": "B6",
-                "name": "Person B6",
+                "id": "B4",
+                "name": "j",
                 "group": "Gruppe B",
-                "color": "hsl(73 62% 42%)"
+                "color": "hsl(243 62% 42%)"
               }
             ]
           ],
@@ -57,30 +57,30 @@
           "teams": [
             [
               {
-                "id": "A6",
-                "name": "Person A6",
+                "id": "A1",
+                "name": "a",
                 "group": "Gruppe A",
-                "color": "hsl(295 62% 42%)"
+                "color": "hsl(0 62% 42%)"
               },
               {
-                "id": "B1",
-                "name": "Person B1",
+                "id": "B6",
+                "name": "l",
                 "group": "Gruppe B",
-                "color": "hsl(138 62% 42%)"
+                "color": "hsl(73 62% 42%)"
               }
             ],
             [
               {
-                "id": "A5",
-                "name": "Person A5",
+                "id": "A4",
+                "name": "d",
                 "group": "Gruppe A",
-                "color": "hsl(20 62% 42%)"
+                "color": "hsl(105 62% 42%)"
               },
               {
-                "id": "B4",
-                "name": "Person B4",
+                "id": "B1",
+                "name": "g",
                 "group": "Gruppe B",
-                "color": "hsl(243 62% 42%)"
+                "color": "hsl(138 62% 42%)"
               }
             ]
           ],
@@ -92,28 +92,28 @@
           "teams": [
             [
               {
-                "id": "A3",
-                "name": "Person A3",
+                "id": "A2",
+                "name": "b",
                 "group": "Gruppe A",
-                "color": "hsl(190 62% 42%)"
+                "color": "hsl(275 62% 42%)"
               },
               {
                 "id": "B3",
-                "name": "Person B3",
+                "name": "i",
                 "group": "Gruppe B",
                 "color": "hsl(328 62% 42%)"
               }
             ],
             [
               {
-                "id": "A2",
-                "name": "Person A2",
+                "id": "A5",
+                "name": "e",
                 "group": "Gruppe A",
-                "color": "hsl(275 62% 42%)"
+                "color": "hsl(20 62% 42%)"
               },
               {
                 "id": "B2",
-                "name": "Person B2",
+                "name": "h",
                 "group": "Gruppe B",
                 "color": "hsl(53 62% 42%)"
               }
@@ -133,30 +133,30 @@
           "teams": [
             [
               {
-                "id": "A1",
-                "name": "Person A1",
+                "id": "A3",
+                "name": "c",
                 "group": "Gruppe A",
-                "color": "hsl(0 62% 42%)"
+                "color": "hsl(190 62% 42%)"
               },
               {
-                "id": "B2",
-                "name": "Person B2",
+                "id": "B6",
+                "name": "l",
                 "group": "Gruppe B",
-                "color": "hsl(53 62% 42%)"
+                "color": "hsl(73 62% 42%)"
               }
             ],
             [
               {
-                "id": "A6",
-                "name": "Person A6",
+                "id": "A2",
+                "name": "b",
                 "group": "Gruppe A",
-                "color": "hsl(295 62% 42%)"
+                "color": "hsl(275 62% 42%)"
               },
               {
-                "id": "B4",
-                "name": "Person B4",
+                "id": "B2",
+                "name": "h",
                 "group": "Gruppe B",
-                "color": "hsl(243 62% 42%)"
+                "color": "hsl(53 62% 42%)"
               }
             ]
           ],
@@ -168,30 +168,30 @@
           "teams": [
             [
               {
-                "id": "A5",
-                "name": "Person A5",
+                "id": "A4",
+                "name": "d",
                 "group": "Gruppe A",
-                "color": "hsl(20 62% 42%)"
+                "color": "hsl(105 62% 42%)"
               },
               {
-                "id": "B1",
-                "name": "Person B1",
+                "id": "B3",
+                "name": "i",
                 "group": "Gruppe B",
-                "color": "hsl(138 62% 42%)"
+                "color": "hsl(328 62% 42%)"
               }
             ],
             [
               {
-                "id": "A3",
-                "name": "Person A3",
+                "id": "A6",
+                "name": "f",
                 "group": "Gruppe A",
-                "color": "hsl(190 62% 42%)"
+                "color": "hsl(295 62% 42%)"
               },
               {
-                "id": "B6",
-                "name": "Person B6",
+                "id": "B4",
+                "name": "j",
                 "group": "Gruppe B",
-                "color": "hsl(73 62% 42%)"
+                "color": "hsl(243 62% 42%)"
               }
             ]
           ],
@@ -203,30 +203,30 @@
           "teams": [
             [
               {
-                "id": "A4",
-                "name": "Person A4",
+                "id": "A1",
+                "name": "a",
                 "group": "Gruppe A",
-                "color": "hsl(105 62% 42%)"
+                "color": "hsl(0 62% 42%)"
               },
               {
-                "id": "B5",
-                "name": "Person B5",
+                "id": "B1",
+                "name": "g",
                 "group": "Gruppe B",
-                "color": "hsl(158 62% 42%)"
+                "color": "hsl(138 62% 42%)"
               }
             ],
             [
               {
-                "id": "A2",
-                "name": "Person A2",
+                "id": "A5",
+                "name": "e",
                 "group": "Gruppe A",
-                "color": "hsl(275 62% 42%)"
+                "color": "hsl(20 62% 42%)"
               },
               {
-                "id": "B3",
-                "name": "Person B3",
+                "id": "B5",
+                "name": "k",
                 "group": "Gruppe B",
-                "color": "hsl(328 62% 42%)"
+                "color": "hsl(158 62% 42%)"
               }
             ]
           ],
@@ -245,29 +245,29 @@
             [
               {
                 "id": "A4",
-                "name": "Person A4",
+                "name": "d",
                 "group": "Gruppe A",
                 "color": "hsl(105 62% 42%)"
               },
               {
-                "id": "B4",
-                "name": "Person B4",
+                "id": "B6",
+                "name": "l",
                 "group": "Gruppe B",
-                "color": "hsl(243 62% 42%)"
+                "color": "hsl(73 62% 42%)"
               }
             ],
             [
               {
-                "id": "A5",
-                "name": "Person A5",
+                "id": "A3",
+                "name": "c",
                 "group": "Gruppe A",
-                "color": "hsl(20 62% 42%)"
+                "color": "hsl(190 62% 42%)"
               },
               {
-                "id": "B6",
-                "name": "Person B6",
+                "id": "B5",
+                "name": "k",
                 "group": "Gruppe B",
-                "color": "hsl(73 62% 42%)"
+                "color": "hsl(158 62% 42%)"
               }
             ]
           ],
@@ -279,30 +279,30 @@
           "teams": [
             [
               {
-                "id": "A3",
-                "name": "Person A3",
+                "id": "A5",
+                "name": "e",
                 "group": "Gruppe A",
-                "color": "hsl(190 62% 42%)"
+                "color": "hsl(20 62% 42%)"
               },
               {
                 "id": "B1",
-                "name": "Person B1",
+                "name": "g",
                 "group": "Gruppe B",
                 "color": "hsl(138 62% 42%)"
               }
             ],
             [
               {
-                "id": "A1",
-                "name": "Person A1",
+                "id": "A6",
+                "name": "f",
                 "group": "Gruppe A",
-                "color": "hsl(0 62% 42%)"
+                "color": "hsl(295 62% 42%)"
               },
               {
-                "id": "B3",
-                "name": "Person B3",
+                "id": "B2",
+                "name": "h",
                 "group": "Gruppe B",
-                "color": "hsl(328 62% 42%)"
+                "color": "hsl(53 62% 42%)"
               }
             ]
           ],
@@ -314,30 +314,30 @@
           "teams": [
             [
               {
-                "id": "A6",
-                "name": "Person A6",
-                "group": "Gruppe A",
-                "color": "hsl(295 62% 42%)"
-              },
-              {
-                "id": "B2",
-                "name": "Person B2",
-                "group": "Gruppe B",
-                "color": "hsl(53 62% 42%)"
-              }
-            ],
-            [
-              {
                 "id": "A2",
-                "name": "Person A2",
+                "name": "b",
                 "group": "Gruppe A",
                 "color": "hsl(275 62% 42%)"
               },
               {
-                "id": "B5",
-                "name": "Person B5",
+                "id": "B4",
+                "name": "j",
                 "group": "Gruppe B",
-                "color": "hsl(158 62% 42%)"
+                "color": "hsl(243 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
+              },
+              {
+                "id": "B3",
+                "name": "i",
+                "group": "Gruppe B",
+                "color": "hsl(328 62% 42%)"
               }
             ]
           ],
@@ -355,30 +355,30 @@
           "teams": [
             [
               {
-                "id": "A2",
-                "name": "Person A2",
+                "id": "A5",
+                "name": "e",
                 "group": "Gruppe A",
-                "color": "hsl(275 62% 42%)"
+                "color": "hsl(20 62% 42%)"
               },
               {
-                "id": "B4",
-                "name": "Person B4",
+                "id": "B3",
+                "name": "i",
                 "group": "Gruppe B",
-                "color": "hsl(243 62% 42%)"
+                "color": "hsl(328 62% 42%)"
               }
             ],
             [
               {
                 "id": "A4",
-                "name": "Person A4",
+                "name": "d",
                 "group": "Gruppe A",
                 "color": "hsl(105 62% 42%)"
               },
               {
-                "id": "B3",
-                "name": "Person B3",
+                "id": "B5",
+                "name": "k",
                 "group": "Gruppe B",
-                "color": "hsl(328 62% 42%)"
+                "color": "hsl(158 62% 42%)"
               }
             ]
           ],
@@ -390,30 +390,30 @@
           "teams": [
             [
               {
-                "id": "A1",
-                "name": "Person A1",
+                "id": "A3",
+                "name": "c",
                 "group": "Gruppe A",
-                "color": "hsl(0 62% 42%)"
+                "color": "hsl(190 62% 42%)"
               },
               {
-                "id": "B1",
-                "name": "Person B1",
+                "id": "B2",
+                "name": "h",
                 "group": "Gruppe B",
-                "color": "hsl(138 62% 42%)"
+                "color": "hsl(53 62% 42%)"
               }
             ],
             [
               {
-                "id": "A5",
-                "name": "Person A5",
+                "id": "A1",
+                "name": "a",
                 "group": "Gruppe A",
-                "color": "hsl(20 62% 42%)"
+                "color": "hsl(0 62% 42%)"
               },
               {
-                "id": "B5",
-                "name": "Person B5",
+                "id": "B4",
+                "name": "j",
                 "group": "Gruppe B",
-                "color": "hsl(158 62% 42%)"
+                "color": "hsl(243 62% 42%)"
               }
             ]
           ],
@@ -425,28 +425,28 @@
           "teams": [
             [
               {
-                "id": "A3",
-                "name": "Person A3",
-                "group": "Gruppe A",
-                "color": "hsl(190 62% 42%)"
-              },
-              {
-                "id": "B2",
-                "name": "Person B2",
-                "group": "Gruppe B",
-                "color": "hsl(53 62% 42%)"
-              }
-            ],
-            [
-              {
                 "id": "A6",
-                "name": "Person A6",
+                "name": "f",
                 "group": "Gruppe A",
                 "color": "hsl(295 62% 42%)"
               },
               {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A2",
+                "name": "b",
+                "group": "Gruppe A",
+                "color": "hsl(275 62% 42%)"
+              },
+              {
                 "id": "B6",
-                "name": "Person B6",
+                "name": "l",
                 "group": "Gruppe B",
                 "color": "hsl(73 62% 42%)"
               }
@@ -466,30 +466,30 @@
           "teams": [
             [
               {
+                "id": "A3",
+                "name": "c",
+                "group": "Gruppe A",
+                "color": "hsl(190 62% 42%)"
+              },
+              {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ],
+            [
+              {
                 "id": "A6",
-                "name": "Person A6",
+                "name": "f",
                 "group": "Gruppe A",
                 "color": "hsl(295 62% 42%)"
               },
               {
                 "id": "B3",
-                "name": "Person B3",
+                "name": "i",
                 "group": "Gruppe B",
                 "color": "hsl(328 62% 42%)"
-              }
-            ],
-            [
-              {
-                "id": "A4",
-                "name": "Person A4",
-                "group": "Gruppe A",
-                "color": "hsl(105 62% 42%)"
-              },
-              {
-                "id": "B1",
-                "name": "Person B1",
-                "group": "Gruppe B",
-                "color": "hsl(138 62% 42%)"
               }
             ]
           ],
@@ -501,14 +501,14 @@
           "teams": [
             [
               {
-                "id": "A1",
-                "name": "Person A1",
+                "id": "A4",
+                "name": "d",
                 "group": "Gruppe A",
-                "color": "hsl(0 62% 42%)"
+                "color": "hsl(105 62% 42%)"
               },
               {
                 "id": "B4",
-                "name": "Person B4",
+                "name": "j",
                 "group": "Gruppe B",
                 "color": "hsl(243 62% 42%)"
               }
@@ -516,15 +516,15 @@
             [
               {
                 "id": "A2",
-                "name": "Person A2",
+                "name": "b",
                 "group": "Gruppe A",
                 "color": "hsl(275 62% 42%)"
               },
               {
-                "id": "B6",
-                "name": "Person B6",
+                "id": "B5",
+                "name": "k",
                 "group": "Gruppe B",
-                "color": "hsl(73 62% 42%)"
+                "color": "hsl(158 62% 42%)"
               }
             ]
           ],
@@ -536,30 +536,696 @@
           "teams": [
             [
               {
-                "id": "A3",
-                "name": "Person A3",
+                "id": "A5",
+                "name": "e",
                 "group": "Gruppe A",
-                "color": "hsl(190 62% 42%)"
+                "color": "hsl(20 62% 42%)"
+              },
+              {
+                "id": "B6",
+                "name": "l",
+                "group": "Gruppe B",
+                "color": "hsl(73 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
+              },
+              {
+                "id": "B2",
+                "name": "h",
+                "group": "Gruppe B",
+                "color": "hsl(53 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        }
+      ],
+      "byes": []
+    },
+    {
+      "number": 6,
+      "matches": [
+        {
+          "id": "R6F1",
+          "court": 1,
+          "teams": [
+            [
+              {
+                "id": "A6",
+                "name": "f",
+                "group": "Gruppe A",
+                "color": "hsl(295 62% 42%)"
+              },
+              {
+                "id": "B6",
+                "name": "l",
+                "group": "Gruppe B",
+                "color": "hsl(73 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A5",
+                "name": "e",
+                "group": "Gruppe A",
+                "color": "hsl(20 62% 42%)"
+              },
+              {
+                "id": "B4",
+                "name": "j",
+                "group": "Gruppe B",
+                "color": "hsl(243 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R6F2",
+          "court": 2,
+          "teams": [
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
               },
               {
                 "id": "B5",
-                "name": "Person B5",
+                "name": "k",
                 "group": "Gruppe B",
                 "color": "hsl(158 62% 42%)"
               }
             ],
             [
               {
+                "id": "A3",
+                "name": "c",
+                "group": "Gruppe A",
+                "color": "hsl(190 62% 42%)"
+              },
+              {
+                "id": "B3",
+                "name": "i",
+                "group": "Gruppe B",
+                "color": "hsl(328 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R6F3",
+          "court": 3,
+          "teams": [
+            [
+              {
+                "id": "A2",
+                "name": "b",
+                "group": "Gruppe A",
+                "color": "hsl(275 62% 42%)"
+              },
+              {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A4",
+                "name": "d",
+                "group": "Gruppe A",
+                "color": "hsl(105 62% 42%)"
+              },
+              {
+                "id": "B2",
+                "name": "h",
+                "group": "Gruppe B",
+                "color": "hsl(53 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        }
+      ],
+      "byes": []
+    },
+    {
+      "number": 7,
+      "matches": [
+        {
+          "id": "R7F1",
+          "court": 1,
+          "teams": [
+            [
+              {
+                "id": "A4",
+                "name": "d",
+                "group": "Gruppe A",
+                "color": "hsl(105 62% 42%)"
+              },
+              {
+                "id": "B3",
+                "name": "i",
+                "group": "Gruppe B",
+                "color": "hsl(328 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
+              },
+              {
+                "id": "B6",
+                "name": "l",
+                "group": "Gruppe B",
+                "color": "hsl(73 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R7F2",
+          "court": 2,
+          "teams": [
+            [
+              {
+                "id": "A2",
+                "name": "b",
+                "group": "Gruppe A",
+                "color": "hsl(275 62% 42%)"
+              },
+              {
+                "id": "B2",
+                "name": "h",
+                "group": "Gruppe B",
+                "color": "hsl(53 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A6",
+                "name": "f",
+                "group": "Gruppe A",
+                "color": "hsl(295 62% 42%)"
+              },
+              {
+                "id": "B5",
+                "name": "k",
+                "group": "Gruppe B",
+                "color": "hsl(158 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R7F3",
+          "court": 3,
+          "teams": [
+            [
+              {
+                "id": "A3",
+                "name": "c",
+                "group": "Gruppe A",
+                "color": "hsl(190 62% 42%)"
+              },
+              {
+                "id": "B4",
+                "name": "j",
+                "group": "Gruppe B",
+                "color": "hsl(243 62% 42%)"
+              }
+            ],
+            [
+              {
                 "id": "A5",
-                "name": "Person A5",
+                "name": "e",
+                "group": "Gruppe A",
+                "color": "hsl(20 62% 42%)"
+              },
+              {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        }
+      ],
+      "byes": []
+    },
+    {
+      "number": 8,
+      "matches": [
+        {
+          "id": "R8F1",
+          "court": 1,
+          "teams": [
+            [
+              {
+                "id": "A4",
+                "name": "d",
+                "group": "Gruppe A",
+                "color": "hsl(105 62% 42%)"
+              },
+              {
+                "id": "B4",
+                "name": "j",
+                "group": "Gruppe B",
+                "color": "hsl(243 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A5",
+                "name": "e",
                 "group": "Gruppe A",
                 "color": "hsl(20 62% 42%)"
               },
               {
                 "id": "B2",
-                "name": "Person B2",
+                "name": "h",
                 "group": "Gruppe B",
                 "color": "hsl(53 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R8F2",
+          "court": 2,
+          "teams": [
+            [
+              {
+                "id": "A3",
+                "name": "c",
+                "group": "Gruppe A",
+                "color": "hsl(190 62% 42%)"
+              },
+              {
+                "id": "B3",
+                "name": "i",
+                "group": "Gruppe B",
+                "color": "hsl(328 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A2",
+                "name": "b",
+                "group": "Gruppe A",
+                "color": "hsl(275 62% 42%)"
+              },
+              {
+                "id": "B6",
+                "name": "l",
+                "group": "Gruppe B",
+                "color": "hsl(73 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R8F3",
+          "court": 3,
+          "teams": [
+            [
+              {
+                "id": "A6",
+                "name": "f",
+                "group": "Gruppe A",
+                "color": "hsl(295 62% 42%)"
+              },
+              {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
+              },
+              {
+                "id": "B5",
+                "name": "k",
+                "group": "Gruppe B",
+                "color": "hsl(158 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        }
+      ],
+      "byes": []
+    },
+    {
+      "number": 9,
+      "matches": [
+        {
+          "id": "R9F1",
+          "court": 1,
+          "teams": [
+            [
+              {
+                "id": "A4",
+                "name": "d",
+                "group": "Gruppe A",
+                "color": "hsl(105 62% 42%)"
+              },
+              {
+                "id": "B2",
+                "name": "h",
+                "group": "Gruppe B",
+                "color": "hsl(53 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A6",
+                "name": "f",
+                "group": "Gruppe A",
+                "color": "hsl(295 62% 42%)"
+              },
+              {
+                "id": "B3",
+                "name": "i",
+                "group": "Gruppe B",
+                "color": "hsl(328 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R9F2",
+          "court": 2,
+          "teams": [
+            [
+              {
+                "id": "A3",
+                "name": "c",
+                "group": "Gruppe A",
+                "color": "hsl(190 62% 42%)"
+              },
+              {
+                "id": "B6",
+                "name": "l",
+                "group": "Gruppe B",
+                "color": "hsl(73 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A5",
+                "name": "e",
+                "group": "Gruppe A",
+                "color": "hsl(20 62% 42%)"
+              },
+              {
+                "id": "B4",
+                "name": "j",
+                "group": "Gruppe B",
+                "color": "hsl(243 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R9F3",
+          "court": 3,
+          "teams": [
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
+              },
+              {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A2",
+                "name": "b",
+                "group": "Gruppe A",
+                "color": "hsl(275 62% 42%)"
+              },
+              {
+                "id": "B5",
+                "name": "k",
+                "group": "Gruppe B",
+                "color": "hsl(158 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        }
+      ],
+      "byes": []
+    },
+    {
+      "number": 10,
+      "matches": [
+        {
+          "id": "R10F1",
+          "court": 1,
+          "teams": [
+            [
+              {
+                "id": "A5",
+                "name": "e",
+                "group": "Gruppe A",
+                "color": "hsl(20 62% 42%)"
+              },
+              {
+                "id": "B6",
+                "name": "l",
+                "group": "Gruppe B",
+                "color": "hsl(73 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A2",
+                "name": "b",
+                "group": "Gruppe A",
+                "color": "hsl(275 62% 42%)"
+              },
+              {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R10F2",
+          "court": 2,
+          "teams": [
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
+              },
+              {
+                "id": "B3",
+                "name": "i",
+                "group": "Gruppe B",
+                "color": "hsl(328 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A6",
+                "name": "f",
+                "group": "Gruppe A",
+                "color": "hsl(295 62% 42%)"
+              },
+              {
+                "id": "B4",
+                "name": "j",
+                "group": "Gruppe B",
+                "color": "hsl(243 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R10F3",
+          "court": 3,
+          "teams": [
+            [
+              {
+                "id": "A3",
+                "name": "c",
+                "group": "Gruppe A",
+                "color": "hsl(190 62% 42%)"
+              },
+              {
+                "id": "B2",
+                "name": "h",
+                "group": "Gruppe B",
+                "color": "hsl(53 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A4",
+                "name": "d",
+                "group": "Gruppe A",
+                "color": "hsl(105 62% 42%)"
+              },
+              {
+                "id": "B5",
+                "name": "k",
+                "group": "Gruppe B",
+                "color": "hsl(158 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        }
+      ],
+      "byes": []
+    },
+    {
+      "number": 11,
+      "matches": [
+        {
+          "id": "R11F1",
+          "court": 1,
+          "teams": [
+            [
+              {
+                "id": "A3",
+                "name": "c",
+                "group": "Gruppe A",
+                "color": "hsl(190 62% 42%)"
+              },
+              {
+                "id": "B1",
+                "name": "g",
+                "group": "Gruppe B",
+                "color": "hsl(138 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A2",
+                "name": "b",
+                "group": "Gruppe A",
+                "color": "hsl(275 62% 42%)"
+              },
+              {
+                "id": "B3",
+                "name": "i",
+                "group": "Gruppe B",
+                "color": "hsl(328 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R11F2",
+          "court": 2,
+          "teams": [
+            [
+              {
+                "id": "A1",
+                "name": "a",
+                "group": "Gruppe A",
+                "color": "hsl(0 62% 42%)"
+              },
+              {
+                "id": "B4",
+                "name": "j",
+                "group": "Gruppe B",
+                "color": "hsl(243 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A4",
+                "name": "d",
+                "group": "Gruppe A",
+                "color": "hsl(105 62% 42%)"
+              },
+              {
+                "id": "B6",
+                "name": "l",
+                "group": "Gruppe B",
+                "color": "hsl(73 62% 42%)"
+              }
+            ]
+          ],
+          "score": null
+        },
+        {
+          "id": "R11F3",
+          "court": 3,
+          "teams": [
+            [
+              {
+                "id": "A6",
+                "name": "f",
+                "group": "Gruppe A",
+                "color": "hsl(295 62% 42%)"
+              },
+              {
+                "id": "B2",
+                "name": "h",
+                "group": "Gruppe B",
+                "color": "hsl(53 62% 42%)"
+              }
+            ],
+            [
+              {
+                "id": "A5",
+                "name": "e",
+                "group": "Gruppe A",
+                "color": "hsl(20 62% 42%)"
+              },
+              {
+                "id": "B5",
+                "name": "k",
+                "group": "Gruppe B",
+                "color": "hsl(158 62% 42%)"
               }
             ]
           ],

@@ -1,0 +1,752 @@
+{
+  "version": 1,
+  "exportedAt": "2026-09-19T09:03:03.409Z",
+  "title": "Saisonabschluss Turnier",
+  "subtitle": "SV Sallach · Familientag",
+  "summary": {
+    "teams": 14,
+    "rounds": 7,
+    "fields": 6,
+    "results": 0,
+    "matches": 42
+  },
+  "rounds": [
+    {
+      "number": 1,
+      "matches": [
+        {
+          "id": "0-A-0",
+          "field": 1,
+          "a": {
+            "id": "A2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "0-A-1",
+          "field": 2,
+          "a": {
+            "id": "A3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "0-A-2",
+          "field": 3,
+          "a": {
+            "id": "A4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "0-B-0",
+          "field": 4,
+          "a": {
+            "id": "B2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "0-B-1",
+          "field": 5,
+          "a": {
+            "id": "B3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "0-B-2",
+          "field": 6,
+          "a": {
+            "id": "B4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "matches": [
+        {
+          "id": "1-A-0",
+          "field": 1,
+          "a": {
+            "id": "A1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "1-A-1",
+          "field": 2,
+          "a": {
+            "id": "A2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "1-A-2",
+          "field": 3,
+          "a": {
+            "id": "A3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "1-B-0",
+          "field": 4,
+          "a": {
+            "id": "B1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "1-B-1",
+          "field": 5,
+          "a": {
+            "id": "B2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "1-B-2",
+          "field": 6,
+          "a": {
+            "id": "B3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "matches": [
+        {
+          "id": "2-A-0",
+          "field": 1,
+          "a": {
+            "id": "A1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "2-A-1",
+          "field": 2,
+          "a": {
+            "id": "A7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "2-A-2",
+          "field": 3,
+          "a": {
+            "id": "A2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "2-B-0",
+          "field": 4,
+          "a": {
+            "id": "B1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "2-B-1",
+          "field": 5,
+          "a": {
+            "id": "B7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "2-B-2",
+          "field": 6,
+          "a": {
+            "id": "B2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "matches": [
+        {
+          "id": "3-A-0",
+          "field": 1,
+          "a": {
+            "id": "A1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "3-A-1",
+          "field": 2,
+          "a": {
+            "id": "A6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "3-A-2",
+          "field": 3,
+          "a": {
+            "id": "A7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "3-B-0",
+          "field": 4,
+          "a": {
+            "id": "B1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "3-B-1",
+          "field": 5,
+          "a": {
+            "id": "B6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "3-B-2",
+          "field": 6,
+          "a": {
+            "id": "B7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "matches": [
+        {
+          "id": "4-A-0",
+          "field": 1,
+          "a": {
+            "id": "A1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "4-A-1",
+          "field": 2,
+          "a": {
+            "id": "A5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "4-A-2",
+          "field": 3,
+          "a": {
+            "id": "A6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "4-B-0",
+          "field": 4,
+          "a": {
+            "id": "B1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "4-B-1",
+          "field": 5,
+          "a": {
+            "id": "B5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "4-B-2",
+          "field": 6,
+          "a": {
+            "id": "B6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "matches": [
+        {
+          "id": "5-A-0",
+          "field": 1,
+          "a": {
+            "id": "A1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "5-A-1",
+          "field": 2,
+          "a": {
+            "id": "A4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "5-A-2",
+          "field": 3,
+          "a": {
+            "id": "A6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "5-B-0",
+          "field": 4,
+          "a": {
+            "id": "B1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B3",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "5-B-1",
+          "field": 5,
+          "a": {
+            "id": "B4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "5-B-2",
+          "field": 6,
+          "a": {
+            "id": "B6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "matches": [
+        {
+          "id": "6-A-0",
+          "field": 1,
+          "a": {
+            "id": "A1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "6-A-1",
+          "field": 2,
+          "a": {
+            "id": "A4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "6-A-2",
+          "field": 3,
+          "a": {
+            "id": "A5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "A6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "6-B-0",
+          "field": 4,
+          "a": {
+            "id": "B1",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B2",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "6-B-1",
+          "field": 5,
+          "a": {
+            "id": "B4",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B7",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        },
+        {
+          "id": "6-B-2",
+          "field": 6,
+          "a": {
+            "id": "B5",
+            "label": "Kind & Erwachsene Person"
+          },
+          "b": {
+            "id": "B6",
+            "label": "Kind & Erwachsene Person"
+          },
+          "score": null
+        }
+      ]
+    }
+  ],
+  "standings": [
+    {
+      "rank": null,
+      "shared": false,
+      "id": "A1",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "A2",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "A3",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "A4",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "A5",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "A6",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "A7",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "B1",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "B2",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "B3",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "B4",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "B5",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "B6",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    },
+    {
+      "rank": null,
+      "shared": false,
+      "id": "B7",
+      "label": "Kind & Erwachsene Person",
+      "played": 0,
+      "total": 6,
+      "won": 0,
+      "matchPoints": 0,
+      "wonRallies": 0
+    }
+  ]
+}

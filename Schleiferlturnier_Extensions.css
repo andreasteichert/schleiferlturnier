@@ -55,9 +55,16 @@
 @media(max-width:420px){.category-head{flex-direction:column}.category-head>div:first-child{width:100%;min-width:0}.group-title{width:100%;max-width:none}.group-actions{width:100%;display:flex;flex-direction:column}.group-actions button{width:100%;min-width:0;padding-left:8px;padding-right:8px}.player-row{grid-template-columns:38px minmax(0,1fr) 38px;gap:6px}.player-row .icon-btn{width:38px}.panel{padding-left:15px;padding-right:15px}}
 .manual-lot-workflow{margin-top:15px;padding:14px;border:1px solid #cad9ce;border-radius:14px;background:#f1f6f1}.manual-lot-workflow ol{margin:0;padding-left:20px;line-height:1.55}.manual-pair-preview{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;margin-top:14px}.manual-pair-preview>div{padding:10px 12px;border:1px solid var(--line);border-radius:12px;background:white}.manual-pair-preview strong{display:block;color:var(--navy);font-size:.8rem}.manual-pair-preview span{display:block;margin-top:4px;color:var(--muted);font-size:.78rem;overflow-wrap:anywhere}@media(max-width:680px){.manual-pair-preview{grid-template-columns:1fr}}
 .manual-preview-refresh{display:flex;align-items:center;justify-content:space-between;gap:16px;margin-top:14px;padding:12px 14px;border-radius:13px;background:#eef4ef;color:#53665b}.manual-preview-refresh p{font-size:.82rem;line-height:1.45}.manual-preview-refresh button{flex:0 0 auto;min-height:42px}@media(max-width:680px){.manual-preview-refresh{align-items:stretch;flex-direction:column}.manual-preview-refresh button{width:100%}}
-main:has(input[name="pairing"][value="manual"]:checked) #draw-players{display:none}
-#draw-players{display:none!important}
-.round-auto-toggle{display:flex;align-items:flex-start;gap:9px;margin:0 0 9px;padding:10px 11px;border:1px solid var(--line);border-radius:12px;background:#f3f7f2;color:var(--navy);font-size:.82rem;line-height:1.35;cursor:pointer}
-.round-auto-toggle input{width:auto;min-height:0;margin:2px 0 0;flex:0 0 auto}
+.round-setting-row{display:grid;grid-template-columns:minmax(0,1.25fr) minmax(90px,.75fr);gap:8px;align-items:stretch}
+.round-auto-toggle{display:flex;align-items:center;gap:8px;margin:0;padding:9px 10px;border:1px solid var(--line);border-radius:12px;background:#f3f7f2;color:var(--navy);font-size:.8rem;line-height:1.25;cursor:pointer}
+.round-auto-toggle input{width:auto;min-height:0;margin:0;flex:0 0 auto}
+.round-setting-row>#round-count{height:100%;min-width:0}
 .round-setting-hint{margin-top:7px;color:var(--muted);font-size:.76rem;line-height:1.4}
-@media(max-width:680px){.player-columns{align-items:start}.group-panel{height:auto!important}.category-head{justify-content:flex-start}.draw-toolbar{margin-bottom:14px}}
+.digital-draw-area{display:flex;align-items:center;justify-content:space-between;gap:18px;margin-top:16px;padding:14px;border:1px solid #cad9ce;border-radius:14px;background:#f1f6f1}
+.digital-draw-area p{margin-top:4px;color:var(--muted);font-size:.8rem;line-height:1.4}.digital-draw-area button{flex:0 0 auto;min-width:150px}
+.digital-draw-preview{margin-top:12px}.digital-draw-preview>p{padding:12px 14px;border-radius:12px;background:#f5f7f4}
+.preview-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:15px 0 8px}.preview-heading span{color:var(--muted);font-size:.78rem}
+.manual-lot-actions{display:flex;justify-content:flex-end;margin-top:12px}.manual-lot-actions button{min-width:190px}
+.participant-toolbar-actions{display:flex;align-items:center;justify-content:flex-end;gap:8px;flex-wrap:wrap}.participant-toolbar-actions button{min-height:42px}
+.draw-toolbar.single-action{margin-bottom:14px}
+@media(max-width:680px){.player-columns{align-items:start}.group-panel{height:auto!important}.category-head{justify-content:flex-start}.draw-toolbar{margin-bottom:14px}.digital-draw-area{align-items:stretch;flex-direction:column}.digital-draw-area button,.manual-lot-actions button{width:100%}.preview-heading{align-items:flex-start;flex-direction:column;gap:3px}.round-setting-row{grid-template-columns:minmax(0,1.3fr) minmax(76px,.7fr)}.participant-toolbar-actions{width:100%;display:grid;grid-template-columns:1fr}.participant-toolbar-actions button{width:100%}}
